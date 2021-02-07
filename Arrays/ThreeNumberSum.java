@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.lang.*;
 import java.util.*;
 public class ThreeNumberSum {

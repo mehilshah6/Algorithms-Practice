@@ -1,3 +1,4 @@
+package Arrays;
 public class MoveElementToEnd
 {
     public static void moveElementToEnd(int[] arr, int element)
