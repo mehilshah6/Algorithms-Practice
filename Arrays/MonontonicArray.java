@@ -1,4 +1,3 @@
-package Arrays;
 public class MonontonicArray {
     public static boolean monotonicArray(int[] arr)
     {
